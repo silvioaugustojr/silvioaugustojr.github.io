@@ -1,0 +1,5 @@
+// Dummy breakpoint mixin to satisfy old Jekyll theme imports
+@mixin breakpoint($args...) {
+    @content;
+  }
+  
