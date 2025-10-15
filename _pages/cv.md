@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Chemistry, Cleveland State University, 2023
+* M.S. in Communication Sciences, University of São Paulo, 2017
+* B.A. in Communication Studies, University of São Paulo, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - Current: Research Coordinator
+  * Cleveland Clinic
+  * Duties includes: implementation of research projects, direct contact with patients, statistical analysis, and database management.
+  * Supervisor: Dr. Wilson Tang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021 - Spring 2023: Student Scientist
+  * Cleveland Clinic
+  * Duties includes: statistical analysis and support to basic science research projects.
+  * Supervisor: Dr. Wilson Tang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2011 - Summer 2018: Data Scientist | Business Consultant
+  * Ilumeo Data Science Company
+  * Duties included: collaboration with the consumer intelligence team and business executives to develop research designs for a wide variety of projects and surveys. Application of predictive models and machine learning algorithms.
+  * Supervisor: Diego Senise
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * R (preference)
+  * Python
+  * Matlab
+* Databases & Platforms
+  * REDCap
+  * TriNetX
+  * Cosmos
+  * National Survey Children's Health (NSCH)
+* Other Softwares
+  * Statistics (SPSS, Minitab, JASP, Jamovi)
+  * Adobe Family (Lightroom, Photoshop, Illustrator, Premiere)
+
+Communication
+======
+* Portuguese (Native)
+* English (Fluent/Proficient)
+* Spanish (Conversational)
 
 Publications
 ======
@@ -59,6 +71,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* Cycling Instructor at Cleveland State Recreational Center
+* Soccer Referee at Ohio North State Referee
+* Photography & Filmmaking
